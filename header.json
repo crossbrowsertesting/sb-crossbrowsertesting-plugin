@@ -1,0 +1,15 @@
+{
+  "headerVersion": 1,
+  "pluginVersion": "1.5",
+  "builderMinVersion": "2.3",
+  "builderMaxVersion": "2.3.*",
+  "identifier": "crossbrowsertesting",
+  "name": "CrossBrowserTesting.com for Selenium Builder",
+  "description": "Enables export and playback on CrossBrowserTesting.com.",
+  "siteUrl": "http://crossbrowsertesting.com/faq/",
+  "shutdownFunction": "cbt.shutdown",
+  "icon": "icon.png",
+  "load": [
+    "plugin.js"
+  ]
+}

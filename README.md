@@ -1,1 +1,4 @@
-plugin will be here
+sb-crossbrowsertesting-plugin
+====================
+
+Selenium Builder Plugin Crossbrowsertesting
